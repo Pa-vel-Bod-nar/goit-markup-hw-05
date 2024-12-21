@@ -760,14 +760,14 @@ outline: transparent;
 }
 
 .form-wrapper-checkbox {
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .user-checkbox-label {
   font-weight: 400;
   font-size: 12px;
   letter-spacing: 0.04em;
-  line-height: 1.2;
+  line-height: 1.17;
   color: #8e8f99;
 }
 
