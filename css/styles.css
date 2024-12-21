@@ -676,6 +676,10 @@ fill: #fff;
   
   
 .form-wrapper-box {
+  margin-bottom: 8px;
+}
+
+.form-wrapper-box-comment {
   margin-bottom: 16px;
 }
 
