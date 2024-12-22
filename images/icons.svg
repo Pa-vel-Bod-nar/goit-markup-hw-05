@@ -1,19 +1,4 @@
 
-SVGOMG
-The best SVG optimizer and minifier
-
-Open SVG
-Paste markup
-Demo
-Contribute
-SVGOMG provides you several options to clean and compress your SVG files. Clean up, remove, merge, minify.
-
-Upload or copy the source of your SVG to get started!
-
-Privacy Policy
-
-
-4.16k → 4.07k 97.75%
 <svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <symbol id="icon-diligence" viewBox="0 0 32 32">
@@ -66,6 +51,11 @@ Privacy Policy
     </symbol>
   </defs>
 </svg>
+
+
+
+
+
 
 
 

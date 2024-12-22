@@ -590,13 +590,19 @@ margin-bottom: 16px;
 
 .ftr-sbscr-form-wrpr {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 80px;
+}
+
+
+  /* align-items: center;
   justify-content: center;
   column-gap: 24px;
   
   margin-left: 80px;
-  align-content: center;
-}
+  align-content: center; */
+
 
 .ftr-sbscr-form-text {
   margin-bottom: 16px;
