@@ -627,6 +627,7 @@ margin-bottom: 16px;
 
 .ftr-sbscr-form {
   display: flex;
+  gap: 24px;
 }
 
 .sbscr-btn {
